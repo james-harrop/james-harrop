@@ -11,6 +11,6 @@ I use code to test an idea quickly and put a working version in front of people.
 | [Middled](https://github.com/james-harrop/middled) | AI golf-swing coach: pose tracking runs on the phone, Claude writes one fix and one drill, Stripe takes payment. [Live](https://middled.golf) |
 | [Moovely](https://github.com/james-harrop/moovely) | Compares any two UK places by real disposable income after tax, rent and bills. [Live](https://moovely-umber.vercel.app) |
 
-Most of my client and business work lives in private repos.
+Kept private, because they hold client data or business IP: the adhouse ad engine (turns a brief into scored ad ideas), the adhouse CRM and admin, the adhouse.ai website, and client builds.
 
 [jamesharrop.co](https://jamesharrop.co) · [LinkedIn](https://linkedin.com/in/james-harrop) · james@jamesharrop.co
